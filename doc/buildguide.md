@@ -153,6 +153,8 @@
 
 ・片側をハンダ付けしたら、基板を180度反転させて反対側からも同様にハンダ付けします。
 
+・ハンダの消費量が多く煙が沢山出る作業なので、部屋の換気をしておいた方が良いと思います。
+
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/020.JPG" style="zoom:50%;" />
 
 
