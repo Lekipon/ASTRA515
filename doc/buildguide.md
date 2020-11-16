@@ -15,7 +15,7 @@
 
 ## 1：キット添付品の確認
 
-- **1）PCBとスイッチマウントプレート**
+**1）PCBとスイッチマウントプレート**
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/003.JPG" style="zoom:50%;" />
 
