@@ -167,11 +167,41 @@
 
 
 
-・PCBのPromicro取り付け箇所は写真のようになっています。大きめなMini-BタイプのPromicro（700mil幅）と通常サイズのPromicro（600mil幅）の両方に対応して2種類の幅の穴が用意されています。
+・PCBのPromicro取り付け箇所は写真のようになっています。大きめなMini-BタイプのPromicro（700mil幅）と通常サイズのPromicro（600mil幅）の両方に対応しているため2種類の幅の列に穴が用意されています。
 
 ・なお、標準添付のMini-BタイプのPromicroでは外側の列の穴を使用します。
 
 ![](https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/022.JPG)
+
+
+
+・Promicroにコンスルーを差し込みます。コンスルーの取り付け方向には決まりがありますので、写真を参考に間違えないようにします。
+
+![](https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/023.JPG)
+
+
+
+・コンスルーを装着した状態でPromicroをPCBの穴に差し込みます。先に説明したとおり、Mini-BタイプのPromicroでは外側の列の穴に差し込むようにします。
+
+![](https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/024.JPG)
+
+
+
+・間違いなく装着出来たら、写真のようにPromicro側だけコンスルーの足をハンダ付けします。くれぐれもコンスルーのPCB側はハンダ付けしないようにしましょう（2度と外せなくなります）
+
+![](https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/025.JPG)
+
+
+
+・参考として600mil幅のPromicro（Elite-C）を装着した場合は以下の写真のよう内側の列の穴を使用することになります。
+
+![](https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/026.JPG)
+
+
+
+
+
+
 
 
 
