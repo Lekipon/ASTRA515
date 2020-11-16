@@ -1,3 +1,5 @@
+
+
 # ASTRA515 ビルドガイド
 
 この度は「ASTRA 515」をお買い上げいただきまして誠にありがとうございます。
@@ -193,7 +195,7 @@
 
 
 
-・参考として600mil幅のPromicro（Elite-C）を装着した場合は以下の写真のよう内側の列の穴を使用することになります。
+・参考として600mil幅のPromicro（Elite-C）を装着した場合は、以下の写真のように内側の列の穴を使用することになります。
 
 ![](https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/026.JPG)
 
@@ -201,9 +203,43 @@
 
 
 
+## **5：スイッチマウントプレートの取り付け**
 
 
 
+・ロータリーエンコーダを使用する場合は、プレートを装着する前に下の写真のようにプレートを金属ヤスリで軽く削っておくことをお勧めします。予めこの加工をしておけば、プレートを外すことなくロータリーエンコーダの交換が出来るようになります。
+
+・なお、ロータリーエンコーダを使用せずにMXスイッチのみの構成とする場合は、上記の加工はしない方が良いです（MXスイッチの保持が甘くなってしまうため）
+
+![](https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/027.JPG)
+
+
+
+・プレートのネジ穴（8カ所）に写真のようにM2x8mmネジにM2ワッシャーを1枚通してM2x3mmスペーサーで締め付けます。なお、M2ワッシャーはプレート表面とPCB表面のクリアランスを約5mmになるように調整するために挟んでいます。
+
+![](https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/028.JPG)
+
+
+
+・8カ所にネジ、ワッシャー、スペーサーを取り付けると下の写真のようになります。
+
+![](https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/029.JPG)
+
+
+
+・プレートをPCBに被せます。なお、写真では先にロータリーエンコーダをPCBに差し込んでいますが、上記のプレート切削加工をしている場合は、後から差し込んでも構いません。
+
+・なお、中央下段のキーを縦の2Uサイズとする場合はこの時点で2Uのスタビライザー（別売）をPCBに装着しておく必要があります。
+
+![](https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/030.JPG)
+
+
+
+
+
+・PCBのネジ穴にプレートのネジが通ったら、PCB裏面からM2x4mmスペーサーで8カ所締めます。手でスペーサー強く締め込んでからプライヤーで掴んで45度程度右に回すと本締めとなります。
+
+![](https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/031.JPG)
 
 
 
