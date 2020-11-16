@@ -94,4 +94,6 @@ ASTRA 515は一体型の60％キーボードとほぼ同じサイズで5x15の�
 
 ## ビルドガイド
 
-（工事中...）
+#### 　[**1：組立の手順**](https://github.com/Lekipon/ASTRA515/blob/master/doc/buildguide.md)
+
+　デフォルトキーマップとQMKファームウェアについて（工事中...）
