@@ -307,6 +307,6 @@
 
 <br>
 
-（デフォルトキーマップとQMKファームウェアについては別項にて記載します）
+（デフォルトキーマップとQMKファームウェアについては[**別項**](https://github.com/Lekipon/ASTRA515/blob/master/doc/firmware.md)にて記載します）
 
 <br>
