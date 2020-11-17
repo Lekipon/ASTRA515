@@ -1,10 +1,10 @@
 ## *ASTRA 515:A Symmetrical 5x15 Ortholinear Keyboard*
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/astra515_01.JPG" alt="Astra515_1" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/astra515_01.JPG" width="800" />
 
 ------
 
-![](https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/astra515_02.JPG)
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/astra515_02.JPG" width="800" />
 
 ------
 
@@ -14,7 +14,7 @@ ASTRA 515は一体型の60％キーボードとほぼ同じサイズで5x15の�
 
 なお、ファームウェアは [QMK Firmware](https://github.com/qmk/qmk_firmware) を使用しています。
 
-
+<br>
 
 ## 特徴
 
@@ -32,7 +32,7 @@ ASTRA 515は一体型の60％キーボードとほぼ同じサイズで5x15の�
 - Kailhソケットにより大部分の区画がキースイッチの交換に対応（※中央下段の一部の区画を除く）。
 - 標準添付のProMicroはUSBコネクタが「もげる」心配の無いmini-Bタイプを採用（※別売となりますが普通のProMicroやElite-Cも使用出来ます）。
 
-
+<br>
 
 ## キットに入っている部品
 
@@ -64,7 +64,7 @@ ASTRA 515は一体型の60％キーボードとほぼ同じサイズで5x15の�
 
 14：4ピンタクタイルスイッチ（リセットスイッチ用・1個）
 
-
+<br>
 
 ## キットとは別に用意が必要な部品
 
@@ -76,7 +76,7 @@ ASTRA 515は一体型の60％キーボードとほぼ同じサイズで5x15の�
 
 4：USBケーブル（Mini-Bタイプ・1本）
 
-
+<br>
 
 ## 必要な工具類
 
@@ -90,10 +90,12 @@ ASTRA 515は一体型の60％キーボードとほぼ同じサイズで5x15の�
 - ニッパー
 - プライヤー
 
-
+<br>
 
 ## ビルドガイド
 
 #### 　[**1：組立手順**](https://github.com/Lekipon/ASTRA515/blob/master/doc/buildguide.md)
 
 　2：デフォルトキーマップとQMKファームウェアについて（工事中...）
+
+<br>
