@@ -25,7 +25,7 @@
 
 - PCBにはWS2812Bが表面に3カ所、裏面に13カ所実装されています。
 
-
+<br>
 
 **2）アクリルプレート（３種類）**
 
@@ -33,7 +33,7 @@
 
 - 上から順にボトムプレート用、トップカバー用、底上げ用となります。
 
-
+<br>
 
 **3）ネジ・スペーサー類**
 
@@ -53,19 +53,19 @@
 
 ⑦ゴム足：大3個、小3個
 
-
+<br>
 
 **4）Kailh PCBソケット（MXスイッチ用65個）**
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/006.JPG" width="640" />
 
-
+<br>
 
 **5）ダイオード（75本）**
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/007.JPG" width="640" />
 
-
+<br>
 
 **6）ProMicro（Mini-Bタイプ）、コンスルー、タクタイルスイッチ**
 
@@ -73,7 +73,9 @@
 
 - ProMicroにはデフォルトファームウェアを書込み済となっています。基板にバリが残っているので、側面に軽く紙やすりを掛けた上でゼブラの黒マッキー等で側面を黒塗りしておくことをお勧めします。
 
+<br>
 
+<br>
 
 ## **2：PCBへのダイオードの取り付け**
 
