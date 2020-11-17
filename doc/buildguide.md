@@ -19,7 +19,7 @@
 
 **1）PCBとスイッチマウントプレート**
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/003.JPG" style="zoom: 25%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/003.JPG" width="640" />
 
 - PCBにはWS2812Bが表面に3カ所、裏面に13カ所実装されています。
 
