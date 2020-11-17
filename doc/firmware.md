@@ -108,23 +108,10 @@ make lekipon/astra515:default:dfu
 
 <br>
 
-
+- ご自身でキーマップをカスタマイズする場合は「keyboards/lekipon/astra515/keymaps/」内で「default」フォルダを別の名前にコピーして「keymap.c」をテキストエディタで編集してください。
 
 - なお、動作確認の為にデフォルトの[HEXファイル](https://github.com/Lekipon/ASTRA515/blob/master/hex/lekipon_astra515_default.hex)を用意していますが、標準添付のProMicroに書込済のものと同様になります。
 
+<br><br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+（以下、随時追記予定...）
