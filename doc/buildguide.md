@@ -79,17 +79,19 @@
 
 ## **2：PCBへのダイオードの取り付け**
 
+<br>
+
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/010.JPG" width="640" />
 
 - 写真のように先が細いピンセットでダイオードの根元をつまんで足を直角に曲げていきます。なお、PCB側のダイオード用の穴は6.35mmの間隔で設計していますので、その穴にマッチするように曲げていってください。
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/011.JPG" width="640" />
 
 - このように両方の足を曲げたダイオードを全部で75本作っていきます。正直「面倒くさい」作業ですが、一つ一つのダイオードが全て役割を持っているということを感じていただけたら幸いです。
 
-  
+  <br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/012.JPG" width="640" />
 
@@ -97,7 +99,7 @@
 
 - 試しに方向の間違いがなく10本差し込んでみたら、表面からマスキングテープを貼ってダイオードを固定してみましょう。
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/013.JPG" width="640" />
 
@@ -105,27 +107,25 @@
 
 - なお写真ではニッパーに100均の強力マグネットを貼り付けているため、切った足は自動的にマグネットに吸着されるようになっています。
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/014.JPG" width="640" />
 
 - 「ツライチ」のつもりで切っても僅かに表面に足が出た状態になります。個人的にはこれくらいが好みです。
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/015.JPG" width="640" />
 
 - スルーホール部品のハンダ付けでは必須ではないですが、軽くフラックスを塗布した上でハンダ付けを行います。なお、FX600での温度設定は終始320℃の設定で支障ありません。
 
-
-
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/016.JPG" width="640" />
 
 - これで最初のダイオード10個が実装されました。この後も10個づつ慎重に実装をしていくといいでしょう。なお、実装後のフラックス汚れは一段落ついた後でフラックス洗浄液で落とせば綺麗になります。
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/019.JPG" width="1024" />
 
@@ -133,11 +133,13 @@
 
 - ここまでの工程で数時間は掛かっているはずなので、一旦休憩を入れた方がいいと思います。
 
+<br>
 
-
-
+<br>
 
 ## **3：PCBへのKailhソケットの取り付け**
+
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/020.JPG" width="640" />
 
@@ -149,17 +151,19 @@
 
 - ハンダの消費量が多く煙が沢山出る作業なので、部屋の換気をしておいた方が良いと思います。
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/021.JPG" width="1024" />
 
 - 65個全てのソケットを実装すると写真のようなります。なお、中央下部のソケットの無い区画はロータリーエンコーダの実装やキーサイズ選択制の都合によりソケット非対応とさせていただいてます。
 
+<br>
 
-
-
+<br>
 
 ## **4：ProMicroの取り付け**
+
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/022.JPG" width="640" />
 
@@ -167,37 +171,37 @@
 
 - なお、添付品のMini-BタイプのProMicroでは外側の列の穴を使用します。
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/023.JPG" width="640" />
 
 - ProMicroにコンスルーを差し込みます。コンスルーの取り付け方向には決まりがありますので、写真を参考にして間違えないようにしましょう。
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/024.JPG" width="640" />
 
 - コンスルーを装着した状態でProMicroをPCBの穴に差し込みます。先に説明したとおり、Mini-BタイプのProMicroは幅が広いので外側の列の穴に差し込むようにします。
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/025.JPG" width="640" />
 
 - 間違いなく装着出来たら、写真のようにProMicro側だけコンスルーの足をハンダ付けします。くれぐれもコンスルーのPCB側はハンダ付けしないようにしましょう（二度と外せなくなります）
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/026.JPG" width="640" />
 
 - 参考として600mil幅のProMicro（Elite-C）を装着した場合は、上の写真のように内側の列の穴を使用することになります。
 
+<br>
 
-
-
-
-
+<br>
 
 ## **5：スイッチマウントプレートの取り付け**
+
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/027.JPG" width="640" />
 
@@ -205,19 +209,19 @@
 
 - なお、ロータリーエンコーダを使用せずにMXスイッチのみの構成とする場合は、上記の加工はしない方が良いです（MXスイッチの保持が甘くなってしまうため）
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/028.JPG" width="640" />
 
 - プレートのネジ穴（8カ所）に写真のようにM2x8mmネジにM2ワッシャーを1枚通してM2x3mmスペーサーで締め付けます。なお、M2ワッシャーはプレート表面とPCB表面のクリアランスを約5mmになるように調整するために挟んでいます。
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/029.JPG" width="1024" />
 
 - 8カ所にネジ、ワッシャー、スペーサーを取り付けると上の写真のようになります。
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/030.JPG" width="640" />
 
@@ -225,27 +229,25 @@
 
 - なお、中央下段のキーを縦の2Uサイズとする場合はこの時点で2Uのスタビライザー（別売）をPCBに装着しておく必要があります。
 
-
-
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/031.JPG" width="640" />
 
 - PCBのネジ穴にプレートのネジが通ったら、PCB裏面からM2x4mmスペーサーで8カ所締めます。手でスペーサー強く締め込んでからプライヤーで掴んで45度程度右に回すと本締めとなります。
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/032.JPG" width="640" />
 
 - PCB上部の両端4カ所にM2x12mmスタッドスペーサーをM2x4mmスペーサーで取り付けます。
 
+<br>
 
-
-
-
-
+<br>
 
 ## **6：キースイッチの取り付け**
+
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/033.JPG" width="640" />
 
@@ -255,25 +257,27 @@
 
 - なお、キースイッチの取り付け方向を判別するためにPCBとプレートにキーサイズの表記されています。
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/034.JPG" width="1024" />
-
-
 
 - 続いてソケット対応の区画にキースイッチをセットしていきます。ソケットの場合は無理にスイッチを押し込んで接点のピンが曲がったりしないように注意してください。ハンダ付けと違って失敗しやすい箇所ですのでご注意ください。
 
 - ソケットにスイッチが正しくセットされていることを確認するために、この時点で一旦PCに接続して押したスイッチが反応することを確認しておくと良いでしょう。
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/035.JPG" width="640" />
 
 - 基板を裏返して、キースイッチとロータリーエンコーダのハンダ付けをします。なお、ロータリーエンコーダのピンは手前側3カ所と奥側2カ所のピンをハンダ付けすれば十分な強度が得られるので、後で交換する可能性がある場合は左右の保持ピンはハンダ付けしない方が良いと思います。
 
+<br>
 
+<br>
 
 ## **7：アクリルプレートの取り付け**
+
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/036.JPG" width="1024" />
 
@@ -283,13 +287,17 @@
 
 （註：写真では試作の無刻印ボトムプレートですが、キットには刻印入りのボトムプレートを添付しています）
 
-
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/037.JPG" width="640" />
 
 - 最後にキーキャップを取り付けて、トップカバー用のアクリルプレートをM2x5mmネジで取り付けます。
 
+<br>
 
+<br>
+
+<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/038.JPG" width="800" />
 
@@ -297,9 +305,8 @@
 
 - ProMicroにはデフォルトキーマップを書き込んでありますので、全てのキーが正しく反応するかチェックしましょう。
 
-
-
-
+<br>
 
 （デフォルトキーマップとQMKファームウェアについては別項にて記載します）
 
+<br>
