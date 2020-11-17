@@ -1,4 +1,4 @@
-## *ASTRA 515:A Symmetrical 5x15 Ortholinear Keyboard*
+## *ASTRA 515 : A Symmetrical 5x15 Ortholinear Keyboard*
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/astra515_01.JPG" width="800" />
 
@@ -34,7 +34,7 @@ ASTRA 515は一体型の60％キーボードとほぼ同じサイズで5x15の�
 
 <br>
 
-## キットに入っている部品
+## キットに含まれている部品
 
 1：PCB 1枚（RGBLEDを表面に3カ所、裏面に13カ所実装済）
 
