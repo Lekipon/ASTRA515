@@ -127,7 +127,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/019.JPG" width="800" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/019.JPG" width="1024" />
 
 - 全てのダイオードの実装が完了すると写真のようになります。
 
@@ -151,7 +151,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/021.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/021.JPG" width="1024" />
 
 - 65個全てのソケットを実装すると写真のようなります。なお、中央下部のソケットの無い区画はロータリーエンコーダの実装やキーサイズ選択制の都合によりソケット非対応とさせていただいてます。
 
@@ -161,7 +161,7 @@
 
 ## **4：ProMicroの取り付け**
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/022.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/022.JPG" width="640" />
 
 - PCBのProMicro取り付け箇所は写真のようになっています。大きめなMini-BタイプのProMicro（700mil幅）と通常サイズのProMicro（600mil幅）の両方に対応しているため2種類の幅の列に穴が用意されています。
 
@@ -169,25 +169,25 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/023.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/023.JPG" width="640" />
 
 - ProMicroにコンスルーを差し込みます。コンスルーの取り付け方向には決まりがありますので、写真を参考にして間違えないようにしましょう。
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/024.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/024.JPG" width="640" />
 
 - コンスルーを装着した状態でProMicroをPCBの穴に差し込みます。先に説明したとおり、Mini-BタイプのProMicroは幅が広いので外側の列の穴に差し込むようにします。
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/025.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/025.JPG" width="640" />
 
 - 間違いなく装着出来たら、写真のようにProMicro側だけコンスルーの足をハンダ付けします。くれぐれもコンスルーのPCB側はハンダ付けしないようにしましょう（二度と外せなくなります）
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/026.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/026.JPG" width="640" />
 
 - 参考として600mil幅のProMicro（Elite-C）を装着した場合は、上の写真のように内側の列の穴を使用することになります。
 
@@ -199,7 +199,7 @@
 
 ## **5：スイッチマウントプレートの取り付け**
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/027.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/027.JPG" width="640" />
 
 - ロータリーエンコーダを使用する場合は、プレートを装着する前に写真のようにプレートを金属ヤスリで軽く削っておくことをお勧めします。予めこの加工をしておけば、プレートを外すことなくロータリーエンコーダの交換が出来るようになります。
 
@@ -207,19 +207,19 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/028.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/028.JPG" width="640" />
 
 - プレートのネジ穴（8カ所）に写真のようにM2x8mmネジにM2ワッシャーを1枚通してM2x3mmスペーサーで締め付けます。なお、M2ワッシャーはプレート表面とPCB表面のクリアランスを約5mmになるように調整するために挟んでいます。
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/029.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/029.JPG" width="1024" />
 
 - 8カ所にネジ、ワッシャー、スペーサーを取り付けると上の写真のようになります。
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/030.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/030.JPG" width="640" />
 
 - プレートをPCBに被せます。なお、写真では先にロータリーエンコーダをPCBに差し込んでいますが、上記のプレート切削加工をしている場合は、後から差し込んでも構いません。
 
@@ -229,13 +229,13 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/031.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/031.JPG" width="640" />
 
 - PCBのネジ穴にプレートのネジが通ったら、PCB裏面からM2x4mmスペーサーで8カ所締めます。手でスペーサー強く締め込んでからプライヤーで掴んで45度程度右に回すと本締めとなります。
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/032.JPG" alt="032" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/032.JPG" width="640" />
 
 - PCB上部の両端4カ所にM2x12mmスタッドスペーサーをM2x4mmスペーサーで取り付けます。
 
@@ -247,7 +247,7 @@
 
 ## **6：キースイッチの取り付け**
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/033.JPG" alt="033" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/033.JPG" width="640" />
 
 - 上の写真のようにソケット非対応の区画にキースイッチをセットしていきます。なお、キーサイズ選択制の都合により、一部のキースイッチは上下逆方向に取り付けるようになっていますのでご注意ください。
 
@@ -257,7 +257,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/034.JPG" alt="034" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/034.JPG" width="1024" />
 
 
 
@@ -267,7 +267,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/035.JPG" alt="035" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/035.JPG" width="640" />
 
 - 基板を裏返して、キースイッチとロータリーエンコーダのハンダ付けをします。なお、ロータリーエンコーダのピンは手前側3カ所と奥側2カ所のピンをハンダ付けすれば十分な強度が得られるので、後で交換する可能性がある場合は左右の保持ピンはハンダ付けしない方が良いと思います。
 
@@ -275,7 +275,7 @@
 
 ## **7：アクリルプレートの取り付け**
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/036.JPG" alt="036" style="zoom: 50%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/036.JPG" width="1024" />
 
 - スイッチ類のハンダ付けが完了したら、写真のようにアクリルのボトムプレートと底上げ用プレートを被せてM2ネジで止めていきます。手前側の8カ所はM2x5mmネジ、奥側両端の4カ所はM2x8mmネジを使用します。
 
@@ -285,13 +285,13 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/037.JPG" alt="037" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/037.JPG" width="640" />
 
 - 最後にキーキャップを取り付けて、トップカバー用のアクリルプレートをM2x5mmネジで取り付けます。
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/038.JPG" alt="038" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/038.JPG" width="800" />
 
 - 以上で組立は終了です。お疲れ様でした。
 
