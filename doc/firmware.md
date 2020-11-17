@@ -74,7 +74,7 @@
 
 - QMK ToolboxをPCにインストールします。少し古い記事となりますが [サリチル酸さんのBlogの記事](https://salicylic-acid3.hatenablog.com/entry/qmk-toolbox)が大変分かりやすいです。
 
-- QMKの[本家](https://github.com/qmk/qmk_firmware)には「ASTRA515」のコードはまだマージされていませんので、当面の間はこの[フォークしたQMK](https://github.com/Lekipon/qmk_firmware)を使用してください。
+- QMKの[本家](https://github.com/qmk/qmk_firmware)には「ASTRA515」のコードはまだマージされていませんので、当面の間は[このフォークしたQMK](https://github.com/Lekipon/qmk_firmware)を使用してください。
 
 - QMKのビルド環境の構築方法については、各自のOS環境に合わせて調べていただくようお願いします。特にWindowsでMSYS2環境内に構築する方法はトラブルが報告されているようなので、作者自身もあまり自信ありません（復習のために後日ダメ元で実験してみる予定ですが）。
 
