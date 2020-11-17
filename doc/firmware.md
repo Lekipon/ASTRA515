@@ -76,7 +76,7 @@
 
 - QMKの[本家](https://github.com/qmk/qmk_firmware)には「ASTRA515」のコードはまだマージされていませんので、当面の間は[このフォークしたQMK](https://github.com/Lekipon/qmk_firmware)を使用してください。
 
-- QMKのビルド環境の構築方法については、各自のOS環境に合わせて調べていただくようお願いします。特にWindowsでMSYS2環境内に構築する方法はトラブルが報告されているようなので、作者自身もあまり自信ありません（復習のために後日ダメ元で実験してみる予定ですが）。
+- QMKのビルド環境の構築方法については、各自のOS環境に合わせて調べていただくようお願いします。特にWindowsでMSYS2環境内に構築する方法はトラブルが報告されているようなので、作者自身もあまり自信ありません（復習のために後日に[公式ドキュメント](https://docs.qmk.fm/#/ja/newbs_getting_started)を参照して実験してみる予定ですが）。
 
 - 既にQMKファームウェアのビルド環境を構築をしている方は、ダウンロードしたqmk_firmware-master.zipを解凍して、出来上がった「qmk_firmware-master/」フォルダの中から「keyboards/lekipon」以下の中身をご自身のビルド環境にコピーしても大丈夫だと思います
 
