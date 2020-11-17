@@ -13,7 +13,9 @@
 
 自作キーボードのキットですので出来上がった完成品を使うことで得られる結果だけでなく、それを作る過程も含めて楽しんでいただけたら幸いです。
 
+<br>
 
+<br>
 
 ## 1：キット添付品の確認
 
@@ -27,7 +29,7 @@
 
 **2）アクリルプレート（３種類）**
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/004.JPG" style="zoom: 25%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/004.JPG" width="640" />
 
 - 上から順にボトムプレート用、トップカバー用、底上げ用となります。
 
@@ -35,7 +37,7 @@
 
 **3）ネジ・スペーサー類**
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/005.JPG" style="zoom: 25%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/005.JPG" width="640" />
 
 ①M2x12mmネジ：12本
 
@@ -55,19 +57,19 @@
 
 **4）Kailh PCBソケット（MXスイッチ用65個）**
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/006.JPG" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/006.JPG" width="640" />
 
 
 
 **5）ダイオード（75本）**
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/007.JPG" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/007.JPG" width="640" />
 
 
 
 **6）ProMicro（Mini-Bタイプ）、コンスルー、タクタイルスイッチ**
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/008.JPG" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/008.JPG" width="640" />
 
 - ProMicroにはデフォルトファームウェアを書込み済となっています。基板にバリが残っているので、側面に軽く紙やすりを掛けた上でゼブラの黒マッキー等で側面を黒塗りしておくことをお勧めします。
 
@@ -75,19 +77,19 @@
 
 ## **2：PCBへのダイオードの取り付け**
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/010.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/010.JPG" width="640" />
 
 - 写真のように先が細いピンセットでダイオードの根元をつまんで足を直角に曲げていきます。なお、PCB側のダイオード用の穴は6.35mmの間隔で設計していますので、その穴にマッチするように曲げていってください。
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/011.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/011.JPG" width="640" />
 
 - このように両方の足を曲げたダイオードを全部で75本作っていきます。正直「面倒くさい」作業ですが、一つ一つのダイオードが全て役割を持っているということを感じていただけたら幸いです。
 
   
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/012.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/012.JPG" width="640" />
 
 - PCBの表面からダイオードを差し込んで行きます。なお「ASTRA 515」ではDuplexMatrixの配線をしている関係上、写真のように5個一組で交互に実装方向が反転しているのが特徴です。PCB表面のシルク印刷でも実装方向を明示していますが、原則として「四角い穴のある側に黒い印がくるように」と覚えていただければ結構です。
 
@@ -95,7 +97,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/013.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/013.JPG" width="640" />
 
 - PCBを裏返してニッパーでダイオードの足を切って行きます。切る長さですが、気持ち的には「ツライチ」にする感じでいいと思います。
 
@@ -103,13 +105,13 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/014.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/014.JPG" width="640" />
 
 - 「ツライチ」のつもりで切っても僅かに表面に足が出た状態になります。個人的にはこれくらいが好みです。
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/015.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/015.JPG" width="640" />
 
 - スルーホール部品のハンダ付けでは必須ではないですが、軽くフラックスを塗布した上でハンダ付けを行います。なお、FX600での温度設定は終始320℃の設定で支障ありません。
 
@@ -117,13 +119,13 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/016.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/016.JPG" width="640" />
 
 - これで最初のダイオード10個が実装されました。この後も10個づつ慎重に実装をしていくといいでしょう。なお、実装後のフラックス汚れは一段落ついた後でフラックス洗浄液で落とせば綺麗になります。
 
 
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/019.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/019.JPG" width="800" />
 
 - 全てのダイオードの実装が完了すると写真のようになります。
 
@@ -135,7 +137,7 @@
 
 ## **3：PCBへのKailhソケットの取り付け**
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/020.JPG" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/020.JPG" width="640" />
 
 - PCBを裏返しにしてKailhソケットをハンダ付けしていきます。難易度の低い部品ですが、表面実装のためパッドには必ずフラックスを塗布するようにしてください。
 
