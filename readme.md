@@ -94,10 +94,10 @@ ASTRA 515は一体型の60％キーボードとほぼ同じサイズで5x15の�
 
 ## ビルドガイド
 
-### 　[**1：組立手順**](https://github.com/Lekipon/ASTRA515/blob/master/doc/buildguide.md)
+#### 　[**1：組立手順**](https://github.com/Lekipon/ASTRA515/blob/master/doc/buildguide.md)
 
-### 　[**2：デフォルトキーマップとQMKファームウェアについて**](https://github.com/Lekipon/ASTRA515/blob/master/doc/firmware.md)
+#### 　[**2：デフォルトキーマップとQMKファームウェアについて**](https://github.com/Lekipon/ASTRA515/blob/master/doc/firmware.md)
 
-### 	[**3：ProMicroの換装について・他**](https://github.com/Lekipon/ASTRA515/blob/master/doc/promicro.md)
+#### [**3：ProMicroの換装について・他**](https://github.com/Lekipon/ASTRA515/blob/master/doc/promicro.md)
 
-​	4:ロータリーエンコーダの選定について（沼）
+4:ロータリーエンコーダの選定について（沼）
