@@ -6,8 +6,7 @@
   - 基板のレイアウトが大柄な故にProMicroの設置場所に余裕があった。
   - HHKB等の市販品でケーブル脱着式のキーボードでは、長年の間Mini-Bコネクタが標準だった（現在の市販キーボードではMini-BからType-Cコネクタに移行する過渡期）。
   - 通常のProMicroではMicroUSBコネクタが「もげる」問題に根本的な対策がされていない。
-- Mini-BタイプのProMicroも調達コストは通常のProMicroとほぼ同じ。<br>
-  
+  - Mini-BタイプのProMicroも調達コストは通常のProMicroとほぼ同じ。<br>
 - 上記の事情でMini-Bタイプを採用していますが、一般的な[ProMicro](https://yushakobo.jp/shop/promicro-spring-pinheader/)や[Elite-C](https://yushakobo.jp/shop/elite-c/)も使用可能なように設計してあります。MicroUSBコネクタは「もげる」問題があるので、換装の際はElite-Cを推奨しますが、MicroUSBケーブルを使いたい事情がある場合は、ProMicroのUSBコネクタをエポキシ接着剤等で補強して使用してください。
 - なお、遊舎工房さんで取り扱っているProMicro（コンスルー付きで1,100円）について、少しだけ朗報があります。詳細は以下の比較写真をご覧いただければ分かりますが、USBコネクタがの実装が強化されています。
 
