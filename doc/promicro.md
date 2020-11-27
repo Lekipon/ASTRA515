@@ -4,7 +4,7 @@
 
 - ASTRA 515では一般的な自作キーボードキットと違い、標準添付のProMicroはやや大ぶりなMini-Bタイプのものとさせていただいています。理由は以下の通りとなります。
   - 基板のレイアウトが大柄な故にProMicroの設置場所に余裕があった。
-  - HHKB等の市販品でケーブル脱着式のキーボードでは、長年の間Mini-Bコネクタが標準だった（現在の市販キーボードではMini-BからType-Cコネクタに移行する過渡期）。
+  - HHKB等の市販キーボードでケーブル脱着式のキーボードでは、長年の間Mini-Bコネクタが標準だった（現在の市販キーボードではMini-BからType-Cコネクタに移行する過渡期）。
   - 通常のProMicroではMicroUSBコネクタが「もげる」問題に根本的な対策がされていない。
   - Mini-BタイプのProMicroも調達コストは通常のProMicroとほぼ同じ。<br><br>
 - 上記の事情でMini-Bタイプを採用していますが、一般的な[ProMicro](https://yushakobo.jp/shop/promicro-spring-pinheader/)や[Elite-C](https://yushakobo.jp/shop/elite-c/)も使用可能なように設計してあります。MicroUSBコネクタは「もげる」問題があるので、換装の際はElite-Cを推奨しますが、MicroUSBケーブルを使いたい事情がある場合は、ProMicroのUSBコネクタをエポキシ接着剤等で補強して使用してください。
