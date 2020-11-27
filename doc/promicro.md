@@ -1,6 +1,6 @@
 
 
-# ProMicroの換装について
+# ProMicroの換装について・他
 
 - ASTRA 515では一般的な自作キーボードキットと違い、標準添付のProMicroはやや大ぶりなMini-Bタイプのものとさせていただいています。理由は以下の通りとなります。
   - 基板のレイアウトが大柄な故にProMicroの設置場所に余裕があった。
@@ -22,10 +22,39 @@
 
 <br>
 
+- 下の写真は標準添付のProMicroを取り付けた状態となります。
 
-
-
-
-
+  <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/042.JPG" width="640" />
 
 <br>
+
+- これをElite-Cに換装した場合は以下の写真のようになります。<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/043.JPG" width="640" />
+
+  ・ProMicroとの大きさの違いにより、Type-Cコネクタが奥まった位置になる点にご注意ください。
+
+<br>
+
+- この状態でL型のType-Cケーブルを使う場合は下の写真のように、コネクタの突き出し量が12mm以上あるものを使用してください。余談ですが、写真のケーブルはダイソーで売ってるType-Cケーブルです。
+
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/044.JPG" width="640" />
+
+<br>
+
+<br>
+
+- また、標準添付のProMicroはVCCの赤色LEDの照度が強いため、マットのアクリルプレート越しでも目障りに感じる方もいるかと思います。
+- その場合は、あくまで自己責任となりますが、LEDに繋がっている抵抗を除去してLEDを点灯しなくするという処置が可能です。ついでにスタンバイ電力も2mA程度の削減になります。
+
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/045.JPG" width="640" />
+
+- なお、抵抗は表面実装部品なので、半田ゴテの二刀流が必要となります（30W程度あれば2本ともFX600である必要はありません）。抵抗の両側からコテ先で同時に加熱して横滑りさせるように力を掛ければ簡単に外れます。
+
+- 間違っても隣接する部品にコテ先を当てないように注意しましょう。
+
+  <br>
+
+  <br>
+
+  （以上）
+
+  
