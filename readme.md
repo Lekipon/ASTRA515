@@ -1,6 +1,6 @@
 ## *ASTRA 515 : A Symmetrical 5x15 Ortholinear Keyboard*
 
-<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/astra515_01.JPG" width="800" />
+<img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/astra515_03.JPG" width="800" />
 
 ------
 
