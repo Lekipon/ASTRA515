@@ -10,7 +10,9 @@
 
   <br>
   
-  #### <br>**1）遊舎工房さんで取り扱っている[ロータリーエンコーダ＆ノブセット](https://yushakobo.jp/shop/pec12r-4222f-s0024/)**<br>
+  
+
+**1）遊舎工房さんで取り扱っている[ロータリーエンコーダ＆ノブセット](https://yushakobo.jp/shop/pec12r-4222f-s0024/)**<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/050.JPG" width="640" />
 
@@ -42,7 +44,7 @@
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/052.JPG" width="640" />
 
-<br>・金鋸を使用する際にはロータリーエンコーダの駆動部にダメージを与えないようにするために、必ずシャフト先端側をクランプしてカットします。
+・金鋸を使用する際にはロータリーエンコーダの駆動部にダメージを与えないようにするために、必ずシャフト先端側をクランプしてカットします。
 
 <br>
 
@@ -53,8 +55,6 @@
 ・余談ですが、写真の工具は[スーパーツール社製のSG225](https://www.supertool.co.jp/products/products.php?eid=00084)。いわゆるバイスグリップ系の工具では世界的にも珍しい開口幅切り替え式が特長です。このシリーズの工具は個人的に何かと出番が多くて長年使っています。現在ではAmazonで2,200円で買えるので、一本持っておいても損はないと思います。
 
 <br>
-
-
 
 #### **3）Bourns PEC11R-4015F-S0024**<br><img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/054.JPG" width="640" />
 
@@ -108,8 +108,6 @@
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/058.JPG" width="640" />
 
-<br>
-
 ・詳細は[こちら](https://www.marutsu.co.jp/pc/i/837992/)。秋葉原の電子部品ショップでよく扱っている安価なノブです。グレーの他に黒色もあります。
 
 ・これも、エッジ部分の摩擦力が適正なところが良いと思います。また、グレー系のキーキャップに近い色で外観的にしっくりくるという良さもあります。
@@ -122,8 +120,6 @@
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/059.JPG" width="640" />
 
-<br>
-
 ・詳細は[こちら](http://www.satoparts.co.jp/JPN/item/K/K-4071/)。マルツオンライン等で扱っています。
 
 ・大径でかつエッジ部分の摩擦力が適正、低く取り付け出来るためDSAのキーキャップとの相性も良いです。ただし、見た目が安っぽいのが一番の難点で色も黒しか有りません。実用性最優先の選択となります。
@@ -134,8 +130,6 @@
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/060.JPG" width="640" />
 
-<br>
-
 ・詳細は[こちら](http://www.satoparts.co.jp/JPN/item/K/K-52-KE-3/)。マルツオンライン等で扱っています。
 
 ・大径ですが、エッジ部分の摩擦力があまり強くないです、低く取り付け出来ることと、外観が安っぽくないというのが良い点だと思います。
@@ -145,8 +139,6 @@
 #### **5）サトーパーツ K-38（中）**<br>
 
 <img src="https://raw.githubusercontent.com/Lekipon/ASTRA515/master/doc/img/061.JPG" width="640" />
-
-<br>
 
 ・詳細は[こちら](http://www.satoparts.co.jp/JPN/item/K/K-38/)。マルツオンライン等で扱っています。
 
