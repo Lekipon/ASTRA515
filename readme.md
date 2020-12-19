@@ -100,4 +100,7 @@ ASTRA 515は一体型の60％キーボードとほぼ同じサイズで5x15の�
 
 #### [**3：ProMicroの換装について・他**](https://github.com/Lekipon/ASTRA515/blob/master/doc/promicro.md)
 
-4:ロータリーエンコーダの選定について（沼）
+#### [**４：ロータリーエンコーダの選定について（沼）**](https://github.com/Lekipon/ASTRA515/blob/master/doc/re_numa.md)
+
+<br>
+
